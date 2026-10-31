@@ -10,3 +10,13 @@
 - Problem Solving
 Let's Connect!
 - GitHub: [@trishalajagtap725-eng](https://github.com/trishalajagtap725-eng)
+
+ Currently Learning & Exploring
+- Java
+- Java 8
+- Data Structures & Algorithms
+- SQL & DBMS (Learning)
+- Git & GitHub (Learning)
+- Full Stack Development (Upcoming)
+  
+
